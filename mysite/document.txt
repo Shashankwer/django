@@ -1,0 +1,4 @@
+manage.py is the root containing the the project file. 
+
+
+Projects vs apps" 
